@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
   "name": "Rik Deakin",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "admin@rikdeakin.com",
+  "shortDesc": "I'm an IT professional with 20 years of experience, pursuing a career in Cyber Security.",
+  "url": "https://rikdeakin.com",
+  "authorEmail": "contactme@rikdeakin.com",
   "authorHandle": "",
   "authorName": "Rik Deakin",
   "enableThirdPartyComments": false,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "paymentPointer": "",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
 }
