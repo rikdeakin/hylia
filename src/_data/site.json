@@ -1,5 +1,5 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "Rik Deakin",
   "shortDesc": "I'm an IT professional with 20 years of experience, pursuing a career in Cyber Security.",
   "url": "https://rikdeakin.com",
@@ -7,7 +7,7 @@
   "authorHandle": "",
   "authorName": "Rik Deakin",
   "enableThirdPartyComments": false,
-  "paymentPointer": "",
+  "paymentPointer": " ",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
 }
