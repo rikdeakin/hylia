@@ -1,6 +1,6 @@
 ---
-title: 'Thank you'
+title: 'Message received! 👍'
 permalink: '/thank-you/index.html'
 ---
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Thanks for getting in touch with me, I'll get back to you as soon as I can. 🙂
