@@ -11,10 +11,14 @@ tags:
 ---
 I﻿ passed the Microsoft SC-900 exam!
 
+[﻿
+
 ![Microsoft Certified Security Compliance and Identity Fundamentals](/images/microsoft-certified-security-compliance-and-identity-fundamentals.png "Microsoft Certified Security Compliance and Identity Fundamentals")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+](﻿https://go.rikdeakin.uk/SC90)
 
-https://go.rikdeakin.uk/SC90
+<iframe width="560" height="315" src="https://youtu.be/LLKza5oULAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 U﻿pdate tags!
