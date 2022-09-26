@@ -1,33 +1,24 @@
 ---
-title: A scheduled post
-date: 2022-06-18
+title: SC-900
+metaTitle: Blog, news, certs, Microsoft SC-900
+metaDesc: Blog, news, certs, Microsoft SC-900
+date: 2022-09-26T13:46:32.062Z
 tags:
-  - demo-content
-  - simple-post
   - blog
+  - certification
+  - Microsoft
+  - SC-900
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I﻿ passed the Microsoft SC-900 exam!
 
-This post is scheduled for the future, specifically mid-2022. Hopefully you're still blogging by then too. Once that date ticks by, this post will automatically become published and visible.
+[﻿
 
-Otherwise, below is some styled content for you to play with.
+![Microsoft Certified Security Compliance and Identity Fundamentals](/images/microsoft-certified-security-compliance-and-identity-fundamentals.png "Microsoft Certified Security Compliance and Identity Fundamentals")
 
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+](﻿https://go.rikdeakin.uk/SC90)
 
-How about a `<blockquote>`?
+<iframe width="560" height="315" src="https://youtu.be/LLKza5oULAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
 
-A list of stuff:
 
-* Sed posuere consectetur est at lobortis
-* Aenean lacinia bibendum nulla sed consectetur
-* Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+U﻿pdate tags!
