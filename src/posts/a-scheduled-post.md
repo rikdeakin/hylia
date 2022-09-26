@@ -1,7 +1,9 @@
 ---
 title: SC-900
-metaTitle: Blog, news, certs, Microsoft SC-900
-metaDesc: Blog, news, certs, Microsoft SC-900
+metaTitle: Blog, news, certs, Microsoft SC-900, Certified Security Compliance
+  and Identity Fundamentals
+metaDesc: Blog, news, certs, Microsoft SC-900, Certified Security Compliance and
+  Identity Fundamentals
 date: 2022-09-26T13:46:32.062Z
 tags:
   - blog
