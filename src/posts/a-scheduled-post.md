@@ -11,14 +11,14 @@ tags:
 ---
 I﻿ passed the Microsoft SC-900 exam!
 
-[﻿
+[![Verify on Credly](/images/microsoft-certified-security-compliance-and-identity-fundamentals.png)](﻿https://go.rikdeakin.uk/SC90)
 
-![Microsoft Certified Security Compliance and Identity Fundamentals](/images/microsoft-certified-security-compliance-and-identity-fundamentals.png "Microsoft Certified Security Compliance and Identity Fundamentals")
+Click the badge above to [verify](﻿https://go.rikdeakin.uk/SC90) my Microsoft Certified Security Compliance and Identity Fundamentals certification on credly.
 
-](﻿https://go.rikdeakin.uk/SC90)
+Microsoft's course was pretty good, although I wouldn't say this is an easy certification, simply because the naming and crossover of MS' security and GRC products is quite confusing.
 
-<iframe width="560" height="315" src="https://youtu.be/LLKza5oULAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I﻿ found the following short course on youtube to be useful. The content seemed rushed, there were a few mistakes here and there, but on the whole it is a good way to quickly brush-up on the course material.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LLKza5oULAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-U﻿pdate tags!
+I﻿ got a free exam voucher for this course from Microsoft, from attending one of their [Microsoft Virtual Training Days](https://www.microsoft.com/en-gb/events/training-days/) events. And so can you! But wait, there's more! Keep an eye on that page, because they offer free training and exams for lots of different certifications.
