@@ -9,8 +9,8 @@ tags:
 ---
 This month I've gained the following certifications:
 
-* \[Kubernetes & Cloud Native Associate](https://go.rikdeakin.uk/KCNA)
-* \[S﻿C-900 - Microsoft Security, Compliance, and Identity Fundamentals](https://go.rikdeakin.uk/SC90)
+* [Kubernetes & Cloud Native Associate](https://go.rikdeakin.uk/KCNA)
+* [S﻿C-900 - Microsoft Security, Compliance, and Identity Fundamentals](https://go.rikdeakin.uk/SC90)
 
 Please click the links to verify them.
 
