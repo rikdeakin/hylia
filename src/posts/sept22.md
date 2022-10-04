@@ -10,8 +10,9 @@ tags:
 This month I've gained the following certifications:
 
 * [Kubernetes & Cloud Native Associate](https://go.rikdeakin.uk/KCNA)
-* [S﻿C-900 - Microsoft Security, Compliance, and Identity Fundamentals](https://go.rikdeakin.uk/SC90)
+* [SC-900 - Microsoft Security, Compliance, and Identity Fundamentals](https://go.rikdeakin.uk/SC90)
+* [CCSK](https://go.rikdeakin.uk/CCSK)
 
 Please click the links to verify them.
 
-& I'm currently studying to take my CCSK exam.
+Next I'll be aiming to get my Google Associate Cloud Engineer certification.
